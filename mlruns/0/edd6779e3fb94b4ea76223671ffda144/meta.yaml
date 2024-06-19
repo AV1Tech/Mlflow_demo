@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/av215/Downloads/MlFlow_demo/mlruns/0/edd6779e3fb94b4ea76223671ffda144/artifacts
+end_time: 1718794101561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edd6779e3fb94b4ea76223671ffda144
+run_name: marvelous-moth-34
+run_uuid: edd6779e3fb94b4ea76223671ffda144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718794094325
+status: 3
+tags: []
+user_id: av215

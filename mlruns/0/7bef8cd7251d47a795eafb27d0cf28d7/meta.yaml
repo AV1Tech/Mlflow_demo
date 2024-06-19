@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/av215/Downloads/MlFlow_demo/mlruns/0/7bef8cd7251d47a795eafb27d0cf28d7/artifacts
+end_time: 1718793893314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bef8cd7251d47a795eafb27d0cf28d7
+run_name: resilient-grouse-958
+run_uuid: 7bef8cd7251d47a795eafb27d0cf28d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718793885895
+status: 3
+tags: []
+user_id: av215

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718793893306
+current_stage: None
+description: null
+last_updated_timestamp: 1718793893306
+name: IrisRandomForestModel
+run_id: 7bef8cd7251d47a795eafb27d0cf28d7
+run_link: null
+source: file:///C:/Users/av215/Downloads/MlFlow_demo/mlruns/0/7bef8cd7251d47a795eafb27d0cf28d7/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/av215/Downloads/MlFlow_demo/mlruns/0/7bef8cd7251d47a795eafb27d0cf28d7/artifacts/random_forest_model
+user_id: null
+version: 1
